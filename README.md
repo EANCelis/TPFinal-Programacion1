@@ -33,6 +33,13 @@ El juego permite a dos jugadores enfrentarse en varias rondas de cartas, con la 
 ### Créditos
 
 - Detalla el nombre del desarrollador y la información del curso y grupo.
+  
+## Versiones
+
+El juego está disponible en versiones para:
+
+- **Windows**
+- **Linux**
 
   
 ![Embaucado](https://github.com/user-attachments/assets/96862c74-b9be-447b-82d7-459e681e5991)
