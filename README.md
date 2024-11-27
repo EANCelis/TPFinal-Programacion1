@@ -1,4 +1,4 @@
-# Juego de Cartas - Proyecto UTN FRGP
+# Juego de Cartas | Proyecto UTN FRGP
 
 Este repositorio contiene el código fuente de un juego de cartas desarrollado como parte de un proyecto para la materia **Programación 1** en la **UTN FRGP**. El juego se centra en la mecánica de puntaje y la gestión de rondas entre dos jugadores, con la inclusión de una carta especial llamada "embaucadora".
 
